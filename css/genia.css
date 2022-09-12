@@ -1,0 +1,36 @@
+h1,h2, h3{
+    font-weight: bold;
+    margin-top:15px;
+  
+ }
+
+ ul li{
+    margin-left: 25px;
+    list-style-type: upper-roman;
+ }
+
+ img{
+    width: 24%;
+    padding: 20px;
+    border-style:groove;
+    border-color: rgb(175, 175, 18);
+    border-width: 25px;
+    border-radius: 20%;
+ }
+
+ nav li {
+    background-color: lightblue;
+    border: darkblue;
+    border: 15px;
+    padding: 3%;
+    width: 20%;
+    border-radius: 30%;
+    display: inline-block;
+ }
+
+ p {
+    font: Courier;
+    font-size: 18px;
+    
+ }
+ 
